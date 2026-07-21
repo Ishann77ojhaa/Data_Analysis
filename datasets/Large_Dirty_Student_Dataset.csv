@@ -1,0 +1,104 @@
+ID,Name,Age,Marks,Attendance,City
+1,Student1,-3,67.0,95.0,lalitpur
+2,Student2,18,55.0,120.0,kathmandu
+3,Student3,-3,90.0,65.0,Pokhara
+4,Student4,21,55.0,65.0,pokhara
+5,Student5,21,55.0,75.0,kathmandu
+6,Student6,,81.0,65.0,Pokhara
+7,Student7,19,67.0,,lalitpur
+8,Student8,18,90.0,120.0,pokhara
+9,Student9,18,67.0,65.0,Pokhara
+10,Student10,20,72.0,95.0, Kathmandu 
+11,Student11,,55.0,120.0,KATHMANDU
+12,Student12,,,, Kathmandu 
+13,Student13,19,90.0,120.0,lalitpur
+14,Student14,21,72.0,65.0,Pokhara
+15,Student15,19,90.0,65.0,Pokhara
+16,Student16,21,81.0,,Pokhara
+17,Student17,21,,85.0,pokhara
+18,Student18,abc,72.0,85.0, Kathmandu 
+19,Student19,20,105.0,75.0,kathmandu
+20,Student20,22,90.0,95.0,KATHMANDU
+21,Student21,abc,72.0,120.0,kathmandu
+22,Student22,19,90.0,95.0, Kathmandu 
+23,Student23,-3,67.0,95.0,pokhara
+24,Student24,18,105.0,65.0,Pokhara
+25,Student25,-3,72.0,,KATHMANDU
+26,Student26,abc,90.0,95.0,kathmandu
+27,Student27,19,72.0,95.0,lalitpur
+28,Student28,19,55.0,,lalitpur
+29,Student29,22,105.0,120.0,lalitpur
+30,Student30,abc,72.0,,pokhara
+31,Student31,-3,55.0,95.0,KATHMANDU
+32,Student32,20,90.0,65.0,pokhara
+33,Student33,18,67.0,85.0, Kathmandu 
+34,Student34,21,81.0,95.0,pokhara
+35,Student35,19,67.0,95.0,pokhara
+36,Student36,,72.0,75.0,pokhara
+37,Student37,,72.0,,pokhara
+38,Student38,-3,105.0,95.0, Kathmandu 
+39,Student39,20,55.0,75.0, Kathmandu 
+40,Student40,21,105.0,75.0,kathmandu
+41,Student41,abc,,120.0, Kathmandu 
+42,Student42,22,72.0,65.0, Kathmandu 
+43,Student43,21,90.0,85.0,Pokhara
+44,Student44,-3,67.0,,Pokhara
+45,Student45,18,81.0,,Pokhara
+46,Student46,21,81.0,95.0,pokhara
+47,Student47,19,81.0,,pokhara
+48,Student48,18,67.0,65.0, Kathmandu 
+49,Student49,abc,67.0,65.0,KATHMANDU
+50,Student50,18,55.0,65.0,Pokhara
+51,Student51,20,90.0,65.0,KATHMANDU
+52,Student52,18,55.0,75.0,Pokhara
+53,Student53,21,67.0,,KATHMANDU
+54,Student54,-3,90.0,85.0,pokhara
+55,Student55,19,55.0,95.0,pokhara
+56,Student56,abc,81.0,85.0,kathmandu
+57,Student57,20,55.0,,KATHMANDU
+58,Student58,22,81.0,, Kathmandu 
+59,Student59,,55.0,75.0,Pokhara
+60,Student60,-3,67.0,,Pokhara
+61,Student61,18,,120.0,KATHMANDU
+62,Student62,19,105.0,85.0,Pokhara
+63,Student63,-3,67.0,85.0, Kathmandu 
+64,Student64,,90.0,120.0,KATHMANDU
+65,Student65,21,90.0,75.0, Kathmandu 
+66,Student66,21,105.0,75.0, Kathmandu 
+67,Student67,,81.0,85.0,lalitpur
+68,Student68,18,55.0,85.0,pokhara
+69,Student69,22,67.0,,Pokhara
+70,Student70,-3,81.0,,KATHMANDU
+71,Student71,-3,55.0,75.0,kathmandu
+72,Student72,21,81.0,75.0,KATHMANDU
+73,Student73,21,81.0,120.0,Pokhara
+74,Student74,18,81.0,,KATHMANDU
+75,Student75,19,,,kathmandu
+76,Student76,21,,, Kathmandu 
+77,Student77,abc,67.0,95.0,lalitpur
+78,Student78,-3,55.0,,pokhara
+79,Student79,abc,81.0,,kathmandu
+80,Student80,20,67.0,75.0,kathmandu
+81,Student81,20,90.0,95.0,lalitpur
+82,Student82,20,90.0,120.0,pokhara
+83,Student83,-3,67.0,120.0,Pokhara
+84,Student84,20,55.0,65.0,lalitpur
+85,Student85,19,90.0,, Kathmandu 
+86,Student86,21,,75.0, Kathmandu 
+87,Student87,18,72.0,75.0,KATHMANDU
+88,Student88,,67.0,120.0,KATHMANDU
+89,Student89,22,90.0,95.0, Kathmandu 
+90,Student90,18,105.0,85.0,pokhara
+91,Student91,,81.0,120.0, Kathmandu 
+92,Student92,,67.0,120.0,Pokhara
+93,Student93,18,,95.0, Kathmandu 
+94,Student94,18,,75.0, Kathmandu 
+95,Student95,20,81.0,120.0,lalitpur
+96,Student96,19,90.0,65.0,KATHMANDU
+97,Student97,,90.0,120.0,pokhara
+98,Student98,19,90.0,65.0, Kathmandu 
+99,Student99,21,72.0,65.0,kathmandu
+100,Student100,,81.0,120.0,kathmandu
+6,Student6,,81.0,65.0,Pokhara
+11,Student11,,55.0,120.0,KATHMANDU
+21,Student21,abc,72.0,120.0,kathmandu
